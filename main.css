@@ -107,7 +107,7 @@ img:hover {
 }
 
 body {
-  background: url('assets/blossom-5026997_1920.jpg') center center fixed;
+  background: url('assets/blossom-5026997_1920.jpg') no-repeat center center fixed;
   background-size: cover;
 }
 
